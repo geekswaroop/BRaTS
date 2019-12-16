@@ -129,7 +129,7 @@ python train.py
 
 ### 6. Results
 
-![](/home/krishna/Coding/Intelligence/BRaTS/results.png)
+![](/BRaTS/results.png)
 
 ### 7. References
 
