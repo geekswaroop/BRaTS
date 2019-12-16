@@ -54,7 +54,7 @@ tensorflow/models/research/deeplab
   <img src="https://i.imgur.com/5IBKzDx.png">
   <br>
   <br>
-  <em align="center">Fig 5: DeepLab V3+ Diagram </em>
+  <em align="center">Fig 4: DeepLab V3+ Diagram </em>
   <br>
 </div>
 
@@ -96,7 +96,7 @@ Image Subjects: 31 persons
   [Adam Optimizer](https://arxiv.org/pdf/1412.6980.pdf)
 
   [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
-  
+
 
 ##### 4.3 Hyperparameters
   learning rate = 1e-4
